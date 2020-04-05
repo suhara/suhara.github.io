@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yoshihiko (Yoshi) Suhara"
+title                    : "Yoshihiko Suhara"
 title_separator          : "-"
 name                     : &name "Yoshihiko (Yoshi) Suhara"
 description              : &description "Senior Research Scientist at Megagon Labs"
@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=tjWt_1MAAAAJ&hl=en"
   email            : "yoshi@megagon.ai"
-  researchgate     : "https://www.researchgate.net/profile/Yoshihiko_Suhara"
+  researchgate     : # "https://www.researchgate.net/profile/Yoshihiko_Suhara"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yoshi-suhara"
-  orcid            : "http://orcid.org/0000-0001-7554-2865"
+  orcid            : # "http://orcid.org/0000-0001-7554-2865"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
