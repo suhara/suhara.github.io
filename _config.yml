@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "white" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yoshi"
+  name             : "Yoshihiko (Yoshi) Suhara"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior Research Scientist at Megagon Labs"
   location         : "Mountain View, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=tjWt_1MAAAAJ&hl=en"
-  email            :
+  email            : "yoshi@megagon.ai"
   researchgate     : "https://www.researchgate.net/profile/Yoshihiko_Suhara"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yoshi-suhara/"
+  linkedin         : "yoshi-suhara"
   orcid            : "http://orcid.org/0000-0001-7554-2865"
   pinterest        :
   soundcloud       :
