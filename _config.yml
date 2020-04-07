@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yoshihiko Suhara"
+title                    : "Yoshihiko Suhara at Megagon Labs"
 title_separator          : "-"
 name                     : &name "Yoshihiko (Yoshi) Suhara"
 description              : &description "Senior Research Scientist at Megagon Labs"
@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-162846980-1"
 
 
 # Site Author
