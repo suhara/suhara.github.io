@@ -20,10 +20,9 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
-- 2020-04-03 Our paper __OpinionDigest: A Simple Framework for Opinion Summarization__ has been accepted to ACL 2020 (short paper)!  
-Preprint is coming soon!
-- 2020-03-30 A mass collaboration paper [__Measuring the predictability of life outcomes with a scientific mass collaboration](https://www.pnas.org/content/early/2020/03/24/1915006117.short) on [the Fragile Families Challenge__](https://www.fragilefamilieschallenge.org/) was published in PNAS. i'm honor to participate in the challenge! 
-- 2020-02-10 Our paper __ExtremeReader: An interactive explorer for customizable and explainable review summarization__ has been accepted to WWWW 2020 (demo paper)!
+- 2020-04-03 Our short paper "OpinionDigest: A Simple Framework for Opinion Summarization" has been accepted to ACL 2020! Preprint is coming soon!
+- 2020-03-30 A mass collaboration paper ["Measuring the predictability of life outcomes with a scientific mass collaboration"](https://www.pnas.org/content/early/2020/03/24/1915006117.short) on [the Fragile Families Challenge](https://www.fragilefamilieschallenge.org/) was published in PNAS. I'm honor to participate in the challenge! 
+- 2020-02-10 Our demo paper "ExtremeReader: An interactive explorer for customizable and explainable review summarization" has been accepted to WWWW 2020!
 
 
 FAQ
