@@ -33,12 +33,21 @@ ArXiv
 __Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland  
 ArXiv
 
-- [__Winning Models for Grade Point Average, Grit, and Layoff in the Fragile Families Challenge__](https://arxiv.org/abs/1805.11557)  
-Daniel E Rigobon, Eaman Jahani, __Yoshihiko Suhara__, Khaled AlGhoneim, Abdulaziz Alghunaim, Alex `Sandy' Pentland, Abdullah Almaatouq  
-ArXiv
 
 
 ## 2020
+
+- __OpinionDigest: A Simple Framework for Opinion Summarization__  
+__Yoshihiko Suhara__\*, Xiaolan Wang\*, Stefanos Angelidis, Wang-Chiew Tan  
+ACL 2020 (short) (To appear)
+ 
+ - __ExtremeReader: An interactive explorer for customizable and explainable review summarization__  
+Xiaolan Wang, __Yoshihiko Suhara__, Natalie Nuno, Yuliang Li, Jinfeng Li, Nofar Carmeli, Stefanos Angelidis, Eser Kandogan and Wang-Chiew Tan  
+WWW 2020 (demo) (To appear)
+
+- [__Winning Models for Grade Point Average, Grit, and Layoff in the Fragile Families Challenge__](https://arxiv.org/abs/1805.11557)  
+Daniel E Rigobon, Eaman Jahani, __Yoshihiko Suhara__, Khaled AlGhoneim, Abdulaziz Alghunaim, Alex `Sandy' Pentland, Abdullah Almaatouq  
+Socius (In press)
 
 - [__Measuring the predictability of life outcomes with a scientific mass collaboration__](https://www.pnas.org/content/early/2020/03/24/1915006117.short)  
 Matthew J Salganik, Ian Lundberg, Alexander T Kindel, Caitlin E Ahearn, Khaled Al-Ghoneim, Abdullah Almaatouq, Drew M Altschul, Jennie E Brand, Nicole Bohme Carnegie, Ryan James Compton, Debanjan Datta, Thomas Davidson, Anna Filippova, Connor Gilroy, Brian J Goode, Eaman Jahani, Ridhi Kashyap, Antje Kirchner, Stephen McKay, Allison C Morgan, Alex Pentland, Kivan Polimis, Louis Raes, Daniel E Rigobon, Claudia V Roberts, Diana M Stanescu, __Yoshihiko Suhara__, Adaner Usmani, Erik H Wang, Muna Adem, Abdulla Alhajri, Bedoor AlShebli, Redwane Amin, Ryan B Amos, Lisa P Argyle, Livia Baer-Bositis, Moritz Büchi, Bo-Ryehn Chung, William Eggert, Gregory Faletto, Zhilin Fan, Jeremy Freese, Tejomay Gadgil, Josh Gagné, Yue Gao, Andrew Halpern-Manners, Sonia P Hashim, Sonia Hausen, Guanhua He, Kimberly Higuera, Bernie Hogan, Ilana M Horwitz, Lisa M Hummel, Naman Jain, Kun Jin, David Jurgens, Patrick Kaminski, Areg Karapetyan, EH Kim, Ben Leizman, Naijia Liu, Malte Möser, Andrew E Mack, Mayank Mahajan, Noah Mandell, Helge Marahrens, Diana Mercado-Garcia, Viola Mocz, Katariina Mueller-Gastell, Ahmed Musse, Qiankun Niu, William Nowak, Hamidreza Omidvar, Andrew Or, Karen Ouyang, Katy M Pinto, Ethan Porter, Kristin E Porter, Crystal Qian, Tamkinat Rauf, Anahit Sargsyan, Thomas Schaffner, Landon Schnabel, Bryan Schonfeld, Ben Sender, Jonathan D Tang, Emma Tsurkov, Austin van Loon, Onur Varol, Xiafei Wang, Zhi Wang, Julia Wang, Flora Wang, Samantha Weissman, Kirstie Whitaker, Maria K Wolters, Wei Lee Woon, James Wu, Catherine Wu, Kengran Yang, Jingwen Yin, Bingyu Zhao, Chenyun Zhu, Jeanne Brooks-Gunn, Barbara E Engelhardt, Moritz Hardt, Dean Knox, Karen Levy, Arvind Narayanan, Brandon M Stewart, Duncan J Watts, Sara McLanahan  
@@ -110,7 +119,7 @@ IJCNN 2017
 Jair Ferreira Júnior, Eduardo Carvalho, Bruno V Ferreira, Cleidson de Souza, __Yoshihiko Suhara__, Alex `Sandy' Pentland, Gustavo Pessin  
 PLoS One
 
-- [__DeepMood: Forecasting Depressed Mood Based on Self-reported Histories via Recurrent Neural Networks__]()
+- [__DeepMood: Forecasting Depressed Mood Based on Self-reported Histories via Recurrent Neural Networks__]()  
 __Yoshihiko Suhara__\*, Yinzhan Xu\*, Alex `Sandy' Pentland  
 WWW 2017
 
@@ -156,19 +165,19 @@ __Yoshihiko Suhara__, Hiroyuki Toda, Akito Sakurai
 ICWSM 2007
 
 - [__A simple computational model for classifying small string sets__](https://www.sciencedirect.com/science/article/abs/pii/S0531513106006364)  
-__Yoshihiko Suhara__, Akito Sakurai
-Brain-Inspired IT 2007
+__Yoshihiko Suhara__, Akito Sakurai  
+BrainIT 2007
 
 ## 2006
 
 - [__Generalization by categorical nodes in recurrent neural networks__](https://www.sciencedirect.com/science/article/abs/pii/S0531513106000367)  
 __Yoshihiko Suhara__, Akito Sakurai  
-Brain-Inspired IT 2006
+BrainIT 2006
 
 
 (\* denotes equal contribution.)
 
-Please also see [Google Scholar](https://scholar.google.it/citations?user=tjWt_1MAAAAJ&hl=en).
+Please see [Google Scholar](https://scholar.google.it/citations?user=tjWt_1MAAAAJ&hl=en) for the full publication list.
 
 
 
