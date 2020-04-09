@@ -28,12 +28,12 @@ News
 FAQ
 ======
 - Q. Are you [the famous green dinosaur](https://en.wikipedia.org/wiki/Yoshi)?
-- A. I'm not working with [the famous Italian plumber](https://en.wikipedia.org/wiki/Mario), 
+- A. No. I'm not working with [the famous Italian plumber](https://en.wikipedia.org/wiki/Mario), 
 but both of us are originally from Japan. Yoshi means "good" in Japanese, and my full first name Yoshihiko means "a good boy", 
 which well describes myself. :)
 
 
 - Q. What is your favorite ramen place?
-- A. Please contact me for my private list of ramen places. :)
+- A. Please contact me for my private list of best ramen places. :)
 
 
