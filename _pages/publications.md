@@ -13,6 +13,10 @@ author_profile: true
 
 ## Preprint
 
+- [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
+Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
+ArXiv
+
 - [__Deep Entity Matching with Pre-Trained Language Models__](https://arxiv.org/abs/2004.00584)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
 ArXiv
@@ -116,11 +120,57 @@ CSCW 2017 (poster)
 [Data](https://github.com/suhara/CrowdWS-102)  [Blog](https://blog.humancomputation.com/?p=9492)
 
 
-## Before 2016
+## 2014
 
-Please see [Google Scholar](https://scholar.google.it/citations?user=tjWt_1MAAAAJ&hl=en).
+- [__Probabilistic identification of visited point-of-interest for personalized automatic check-in__](https://dl.acm.org/doi/abs/10.1145/2632048.2632092)  
+Kyosuke Nishida, Hiroyuki Toda, Takeshi Kurashima, __Yoshihiko Suhara__  
+UbiComp 2014
+
+
+## 2013
+
+- [__Snippet Generation by Identifying Attribute Associated Information__](https://link.springer.com/chapter/10.1007/978-3-642-45068-6_5)  
+Yoko Tanaka, __Yoshihiko Suhara__, Nobuaki Hiroshima, Hiroyuki Toda, Seiji Susaki  
+AIRS 2013
+
+- [__Automatically generated spam detection based on sentence-level topic information__](https://dl.acm.org/doi/abs/10.1145/2487788.2488140)  
+__Yoshihiko Suhara__, Hiroyuki Toda, Shuichi Nishioka, Seiji Susaki  
+WebQuality 2013 (WWW Workshop)
+
+- [__Robust online learning to rank via selective pairwise approach based on evaluation measures__](https://www.jstage.jst.go.jp/article/imt/8/1/8_118/_article/-char/en/)  
+__Yoshihiko Suhara__, Jun Suzuki, Ryoji Kataoka  
+Information and Media Technologies
+
+
+## 2008
+
+- [__Extracting related named entities from blogosphere for event mining__](https://dl.acm.org/doi/abs/10.1145/1352793.1352841)  
+__Yoshihiko Suhara__, Hiroyuki Toda, Akito Sakurai  
+ICUIMC 2008
+
+
+## 2007
+
+- [__Event mining from the Blogosphere using topic words__](https://icwsm.org/papers/4--Suhara-Toda-Sakurai.pdf)  
+__Yoshihiko Suhara__, Hiroyuki Toda, Akito Sakurai  
+ICWSM 2007
+
+- [__A simple computational model for classifying small string sets__](https://www.sciencedirect.com/science/article/abs/pii/S0531513106006364)  
+__Yoshihiko Suhara__, Akito Sakurai
+Brain-Inspired IT 2007
+
+## 2006
+
+- [__Generalization by categorical nodes in recurrent neural networks__](https://www.sciencedirect.com/science/article/abs/pii/S0531513106000367)  
+__Yoshihiko Suhara__, Akito Sakurai  
+Brain-Inspired IT 2006
+
 
 (\* denotes equal contribution.)
+
+Please also see [Google Scholar](https://scholar.google.it/citations?user=tjWt_1MAAAAJ&hl=en).
+
+
 
 
  
