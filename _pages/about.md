@@ -20,20 +20,18 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 News
 ======
-- News1
-- News2
-- News3
+- Great news coming soon!
 
 
 FAQ
 ======
-- Q. Are you [the famous green dinosaur](https://en.wikipedia.org/wiki/Yoshi)?\
+- Q. Are you [the famous green dinosaur](https://en.wikipedia.org/wiki/Yoshi)?  
 A. No. I'm not working with [the famous Italian plumber](https://en.wikipedia.org/wiki/Mario), 
 but both of us are originally from Japan. Yoshi means "good" in Japanese, and my full first name Yoshihiko means "a good boy", 
 which well describes myself. :)
 
 
-- Q. What is your favorite ramen place?\
+- Q. What is your favorite ramen place?  
 A. Please contact me for my private list of best ramen places. :)
 
 

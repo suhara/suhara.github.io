@@ -116,7 +116,11 @@ CSCW 2017 (poster)
 [Data](https://github.com/suhara/CrowdWS-102)  [Blog](https://blog.humancomputation.com/?p=9492)
 
 
-(&ast; denotes equal contribution.)
+## Before 2016
 
-Please see [Google Scholar](https://scholar.google.it/citations?user=tjWt_1MAAAAJ&hl=en) for the full publication list.
+Please see [Google Scholar](https://scholar.google.it/citations?user=tjWt_1MAAAAJ&hl=en).
+
+(\* denotes equal contribution.)
+
+
  
