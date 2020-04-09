@@ -42,7 +42,7 @@ PNAS
 
 - [__Emu: Enhancing Multilingual Sentence Embeddings with Semantic Specialization__](https://arxiv.org/abs/1909.06731)  
 Wataru Hirota, __Yoshihiko Suhara__, Behzad Golshan, Wang-Chiew Tan  
-AAAI 2020
+AAAI 2020  
 [Blog](https://megagon.ai/blog/emu-enhancing-multilingual-sentence-embeddings-with-semantic-similarity/)
 
 - [__An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection__](https://www.nature.com/articles/s41598-019-56352-8)  
@@ -91,11 +91,11 @@ LREC 2018
 ## 2017
 
 - [__Social Bridges in Urban Purchase Behavior__](https://dl.acm.org/doi/abs/10.1145/3149409)  
-Xiaowen Dong&ast;, __Yoshihiko Suhara__&ast;, Burcin Bozkaya, Vivek K. Singh, Bruno Lepri, Alex `Sandy' Pentland  
+Xiaowen Dong\*, __Yoshihiko Suhara__\*, Burcin Bozkaya, Vivek K. Singh, Bruno Lepri, Alex `Sandy' Pentland  
 ACM TIST
 
 - [__A Lightweight Front-end Tool for Interactive Entity Population__](https://arxiv.org/abs/1708.00481)  
-Hidekazu Oiwa&ast;, __Yoshihiko Suhara__&ast;, Jiyu Komiya, Andrei Lopatenko  
+Hidekazu Oiwa\*, __Yoshihiko Suhara__\*, Jiyu Komiya, Andrei Lopatenko  
 ICML 2017 Workshop on Interactive Machine Learning
 
 - [__Exploiting the use of recurrent neural networks for driver behavior profiling__](https://ieeexplore.ieee.org/abstract/document/7966230)  
@@ -107,7 +107,7 @@ Jair Ferreira Júnior, Eduardo Carvalho, Bruno V Ferreira, Cleidson de Souza, __
 PLoS One
 
 - [__DeepMood: Forecasting Depressed Mood Based on Self-reported Histories via Recurrent Neural Networks__]()
-__Yoshihiko Suhara__&ast;, Yinzhan Xu&ast;, Alex `Sandy' Pentland  
+__Yoshihiko Suhara__\*, Yinzhan Xu\*, Alex `Sandy' Pentland  
 WWW 2017
 
 - [__Possible Confounds in Word-based Semantic Similarity Test Data__](https://dl.acm.org/doi/abs/10.1145/3022198.3026357)  
