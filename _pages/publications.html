@@ -11,3 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+<h3>2020</h3>
+
+{% for post in site.publications.2020 reversed %}
+<ul>
+  <li>post.title</li>
+  <li>post.authors</li>
+  <li>post.venue</li>
+</ul>
+{% endfor %}
+
+<h3>2019</h3>
