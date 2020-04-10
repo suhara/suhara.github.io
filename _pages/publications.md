@@ -79,7 +79,8 @@ ACM TSAS
 
 - __Building a Hotel Concierge Bot: an industrial case study__  
 Behzad Golshan, George Mihaila, Chen Chen, Jonathan Engel, Alon Halevy, __Yoshihiko Suhara__, Wang-Chiew Tan, Michael Matuschek  
-CAST 2019 (VLDB Workshop)
+CAST 2019 (VLDB Workshop)  
+[Blog](https://megagon.ai/blog/conciergebot-case-study-building-an-industrial-strength-qa-chatbot-for-hotels/)
 
 
 ## 2018
