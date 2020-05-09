@@ -14,36 +14,33 @@ author_profile: true
 ## Preprint
 
 - [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
-Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
-ArXiv
+Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan
 
 - [__Deep Entity Matching with Pre-Trained Language Models__](https://arxiv.org/abs/2004.00584)     
-Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
-ArXiv
+Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan
 
 - [__Understanding Human Judgments of Causality__](https://arxiv.org/abs/1912.08998)  
-Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland  
-ArXiv
+Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland
 
 - [__Sato: Contextual Semantic Type Detection in Tables__](https://arxiv.org/abs/1911.06311)  
 Dan Zhang, __Yoshihiko Suhara__, Jinfeng Li, Madelon Hulsebos, Çağatay Demiralp, Wang-Chiew Tan  
-ArXiv
+[Blog](https://megagon.ai/blog/semantic-type-detection-why-it-matters-current-approaches-and-how-to-improve-it/){:.blog}
 
 - [__Validating Gravity-Based Market Share Models Using Large-Scale Transactional Data__](https://arxiv.org/abs/1902.03488)  
-__Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland  
-ArXiv
+__Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland
 
 
 
 ## 2020
 
-- __OpinionDigest: A Simple Framework for Opinion Summarization__  
+- [__OpinionDigest: A Simple Framework for Opinion Summarization__](https://arxiv.org/abs/2005.01901)  
 __Yoshihiko Suhara__\*, Xiaolan Wang\*, Stefanos Angelidis, Wang-Chiew Tan  
 ACL 2020 (short) (To appear)
  
- - __ExtremeReader: An interactive explorer for customizable and explainable review summarization__  
+ - [__ExtremeReader: An interactive explorer for customizable and explainable review summarization__](https://dl.acm.org/doi/abs/10.1145/3366424.3383535)  
 Xiaolan Wang, __Yoshihiko Suhara__, Natalie Nuno, Yuliang Li, Jinfeng Li, Nofar Carmeli, Stefanos Angelidis, Eser Kandogan and Wang-Chiew Tan  
-WWW 2020 (demo) (To appear)
+WWW 2020 (demo)  
+[Demo](http://extremereader.megagon.info/)
 
 - [__Winning Models for Grade Point Average, Grit, and Layoff in the Fragile Families Challenge__](https://arxiv.org/abs/1805.11557)  
 Daniel E Rigobon, Eaman Jahani, __Yoshihiko Suhara__, Khaled AlGhoneim, Abdulaziz Alghunaim, Alex `Sandy' Pentland, Abdullah Almaatouq  
@@ -67,7 +64,8 @@ Scientific Reports
 
 - [__Happiness Entailment: Automating Suggestions for Well-Being__](https://arxiv.org/abs/1907.10036)     
 Sara Evensen, __Yoshihiko Suhara__, Alon Halevy, Vivian Li, Wang-Chiew Tan, Saran Mumick  
-ACII 2019
+ACII 2019  
+[Blog](https://megagon.ai/blog/happiness-entailment-generating-sustainable-suggestions-for-better-well-being/)
 
 - [__Open Information Extraction from Question-Answer Pairs__  ](https://www.aclweb.org/anthology/N19-1239/)  
 Nikita Bhutani, __Yoshihiko Suhara__, Wang-Chiew Tan, Alon Halevy, HV Jagadish     
