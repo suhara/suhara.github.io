@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+{% include styles.css %}
 
 ## Preprint
 
@@ -75,7 +76,7 @@ NAACL 2019
 Jun Suzuki, __Yoshihiko Suhara__, Hiroyuki Toda, Kyosuke Nishida  
 ACM TSAS
 
-- [__Building a Hotel Concierge Bot: an industrial case study__](files/cast2019_conciergebot.pdf)  
+- [__Building a Hotel Concierge Bot: an industrial case study__](../files/cast2019_conciergebot.pdf)  
 Behzad Golshan, George Mihaila, Chen Chen, Jonathan Engel, Alon Halevy, __Yoshihiko Suhara__, Wang-Chiew Tan, Michael Matuschek  
 CAST 2019 (VLDB Workshop)  
 [Blog](https://megagon.ai/blog/conciergebot-case-study-building-an-industrial-strength-qa-chatbot-for-hotels/)
