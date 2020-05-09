@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-{% include styles.css %}
+
 
 ## Preprint
 
@@ -25,7 +25,7 @@ Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland
 
 - [__Sato: Contextual Semantic Type Detection in Tables__](https://arxiv.org/abs/1911.06311)  
 Dan Zhang, __Yoshihiko Suhara__, Jinfeng Li, Madelon Hulsebos, Çağatay Demiralp, Wang-Chiew Tan  
-[Blog](https://megagon.ai/blog/semantic-type-detection-why-it-matters-current-approaches-and-how-to-improve-it/){:.blog}
+[blog](https://megagon.ai/blog/semantic-type-detection-why-it-matters-current-approaches-and-how-to-improve-it/){:class="btn btn-blog"}
 
 - [__Validating Gravity-Based Market Share Models Using Large-Scale Transactional Data__](https://arxiv.org/abs/1902.03488)  
 __Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland
@@ -36,12 +36,18 @@ __Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland
 
 - [__OpinionDigest: A Simple Framework for Opinion Summarization__](https://arxiv.org/abs/2005.01901)  
 __Yoshihiko Suhara__\*, Xiaolan Wang\*, Stefanos Angelidis, Wang-Chiew Tan  
-ACL 2020 (short) (To appear)
- 
+ACL 2020 (short) (To appear)  
+[pdf](https://arxiv.org/abs/2005.01901){:class="btn btn-pdf"}
+[code](https://github.com/megagonlabs/opiniondigest){:class="btn btn-code"}
+
+   
  - [__ExtremeReader: An interactive explorer for customizable and explainable review summarization__](https://dl.acm.org/doi/abs/10.1145/3366424.3383535)  
 Xiaolan Wang, __Yoshihiko Suhara__, Natalie Nuno, Yuliang Li, Jinfeng Li, Nofar Carmeli, Stefanos Angelidis, Eser Kandogan and Wang-Chiew Tan  
 WWW 2020 (demo)  
-[Demo](http://extremereader.megagon.info/)
+[pdf](https://dl.acm.org/doi/abs/10.1145/3366424.3383535){:class="btn btn-pdf"}
+[demo](http://extremereader.megagon.info/){:class="btn btn-demo"}
+[video](https://www.youtube.com/watch?v=9Mrw31kWRzI&t=1s){:class="btn btn-video"}  
+
 
 - [__Winning Models for Grade Point Average, Grit, and Layoff in the Fragile Families Challenge__](https://arxiv.org/abs/1805.11557)  
 Daniel E Rigobon, Eaman Jahani, __Yoshihiko Suhara__, Khaled AlGhoneim, Abdulaziz Alghunaim, Alex `Sandy' Pentland, Abdullah Almaatouq  
@@ -54,7 +60,7 @@ PNAS
 - [__Emu: Enhancing Multilingual Sentence Embeddings with Semantic Specialization__](https://arxiv.org/abs/1909.06731)  
 Wataru Hirota, __Yoshihiko Suhara__, Behzad Golshan, Wang-Chiew Tan  
 AAAI 2020  
-[Blog](https://megagon.ai/blog/emu-enhancing-multilingual-sentence-embeddings-with-semantic-similarity/)
+[blog](https://megagon.ai/blog/emu-enhancing-multilingual-sentence-embeddings-with-semantic-similarity/){:class="btn btn-blog"}
 
 - [__An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection__](https://www.nature.com/articles/s41598-019-56352-8)  
 Pedro AB Gomes, __Yoshihiko Suhara__, Patrícia Nunes-Silva, Luciano Costa, Helder Arruda, Giorgio Venturieri, Vera Lucia Imperatriz-Fonseca, Alex Pentland, Paulo de Souza, Gustavo Pessin  
@@ -66,7 +72,7 @@ Scientific Reports
 - [__Happiness Entailment: Automating Suggestions for Well-Being__](https://arxiv.org/abs/1907.10036)     
 Sara Evensen, __Yoshihiko Suhara__, Alon Halevy, Vivian Li, Wang-Chiew Tan, Saran Mumick  
 ACII 2019  
-[Blog](https://megagon.ai/blog/happiness-entailment-generating-sustainable-suggestions-for-better-well-being/)
+[blog](https://megagon.ai/blog/happiness-entailment-generating-sustainable-suggestions-for-better-well-being/){:class="btn btn-blog"}
 
 - [__Open Information Extraction from Question-Answer Pairs__  ](https://www.aclweb.org/anthology/N19-1239/)  
 Nikita Bhutani, __Yoshihiko Suhara__, Wang-Chiew Tan, Alon Halevy, HV Jagadish     
@@ -79,7 +85,7 @@ ACM TSAS
 - [__Building a Hotel Concierge Bot: an industrial case study__](../files/cast2019_conciergebot.pdf)  
 Behzad Golshan, George Mihaila, Chen Chen, Jonathan Engel, Alon Halevy, __Yoshihiko Suhara__, Wang-Chiew Tan, Michael Matuschek  
 CAST 2019 (VLDB Workshop)  
-[Blog](https://megagon.ai/blog/conciergebot-case-study-building-an-industrial-strength-qa-chatbot-for-hotels/)
+[blog](https://megagon.ai/blog/conciergebot-case-study-building-an-industrial-strength-qa-chatbot-for-hotels/){:class="btn btn-blog"}
 
 
 ## 2018
@@ -126,7 +132,8 @@ WWW 2017
 - [__Possible Confounds in Word-based Semantic Similarity Test Data__](https://dl.acm.org/doi/abs/10.1145/3022198.3026357)  
 Malay Bhattacharyya, __Yoshihiko Suhara__, Md Mustafizur Rahman, Markus Krause  
 CSCW 2017 (poster)    
-[Data](https://github.com/suhara/CrowdWS-102)  [Blog](https://blog.humancomputation.com/?p=9492)
+[data](https://github.com/suhara/CrowdWS-102){:class="btn btn-data"}
+[blog](https://blog.humancomputation.com/?p=9492){:class="btn btn-blog"}
 
 
 ## 2014

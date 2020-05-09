@@ -1,0 +1,78 @@
+---
+---
+
+a {
+  color: #4682B4;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+
+
+// pdf
+.btn-pdf {
+  background-color: #009E73;
+  &:hover {
+    background-color: #009E73;
+  }
+}
+
+// slides
+.btn-slides {
+  background-color: #F0E442;
+  &:hover {
+    background-color: #F0E442;
+  }
+}
+
+// code
+.btn-code {
+  background-color: #E69F00;
+  &:hover {
+    background-color: #E69F00;
+  }
+}
+
+// data
+.btn-data {
+  background-color: #D55E00;
+  &:hover {
+    background-color: #D55E00;
+  }
+}
+
+// demo
+.btn-demo {
+  background-color: #56B4E9;
+  &:hover {
+    background-color: #56B4E9;
+  }
+}
+
+// video
+.btn-video {
+  background-color: #CC79A7;
+  &:hover {
+    background-color: #CC79A7;
+  }
+}
+
+// blog
+.btn-blog {
+  background-color: #0072B2;
+  &:hover {
+    background-color: #0072B2;
+  }
+}
+
+// misc
+.btn-misc {
+  background-color: #999999;
+  &:hover{
+    background-color: #999999;
+  }
+}
+
