@@ -11,6 +11,11 @@ a:hover, a:visited, a:link, a:active
 }
 
 
+// Basic property
+.btn {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
 
 // pdf
 .btn-pdf {
@@ -70,9 +75,9 @@ a:hover, a:visited, a:link, a:active
 
 // misc
 .btn-misc {
-  background-color: #999999;
+  background-color: #000000;
   &:hover{
-    background-color: #999999;
+    background-color: #000000;
   }
 }
 
