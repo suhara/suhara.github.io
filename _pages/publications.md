@@ -115,6 +115,7 @@ EPJ Data Science
 Eaman Jahani, Peter M. Krafft, __Yoshihiko  Suhara__, Esteban  Moro, Alex `Sandy' Pentland  
 CSCW 2018  
 [pdf](https://dl.acm.org/doi/abs/10.1145/3274348){:class="btn btn-pdf"}
+[slides](https://drive.google.com/file/d/0BzUjOVWyC6wTV202Y2tFZEFEZHBrc1pncGtPaUxUX2QxdDdz/view){:class="btn btn-slides"}
 
 - [__Koko: a system for scalable semantic querying of text__](https://dl.acm.org/doi/10.14778/3229863.3236249)     
 Xiaolang Wang, Jiyu Komiya, __Yoshihiko Suhara__, Aaron Feng, Behzad Golshan, Alon Halevy, Wang-Chiew Tan  
