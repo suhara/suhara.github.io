@@ -46,7 +46,12 @@ __Yoshihiko Suhara__\*, Xiaolan Wang\*, Stefanos Angelidis, Wang-Chiew Tan
 ACL 2020 (short) (To appear)  
 [pdf](https://arxiv.org/abs/2005.01901){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/opiniondigest){:class="btn btn-code"}
-   
+
+- [__An Exploratory Visual Analytics Tool for Multivariate Dynamic Networks__](https://diglib.eg.org/bitstream/handle/10.2312/eurova20201081/019-023.pdf)  
+Hasan Alp Boz, Mohsen Bahrami, Yoshihiko Suhara, Burcin Bozkaya, Selim Balcisoy  
+EuroVA 2020  
+[pdf](https://diglib.eg.org/bitstream/handle/10.2312/eurova20201081/019-023.pdf){:class="btn btn-pdf"}
+
  - [__ExtremeReader: An interactive explorer for customizable and explainable review summarization__](https://dl.acm.org/doi/abs/10.1145/3366424.3383535)  
 Xiaolan Wang, __Yoshihiko Suhara__, Natalie Nuno, Yuliang Li, Jinfeng Li, Nofar Carmeli, Stefanos Angelidis, Eser Kandogan and Wang-Chiew Tan  
 WWW 2020 (demo)  
