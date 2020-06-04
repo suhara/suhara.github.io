@@ -48,7 +48,7 @@ ACL 2020 (short) (To appear)
 [code](https://github.com/megagonlabs/opiniondigest){:class="btn btn-code"}
 
 - [__An Exploratory Visual Analytics Tool for Multivariate Dynamic Networks__](https://diglib.eg.org/bitstream/handle/10.2312/eurova20201081/019-023.pdf)  
-Hasan Alp Boz, Mohsen Bahrami, Yoshihiko Suhara, Burcin Bozkaya, Selim Balcisoy  
+Hasan Alp Boz, Mohsen Bahrami, __Yoshihiko Suhara__, Burcin Bozkaya, Selim Balcisoy  
 EuroVA 2020  
 [pdf](https://diglib.eg.org/bitstream/handle/10.2312/eurova20201081/019-023.pdf){:class="btn btn-pdf"}
 
