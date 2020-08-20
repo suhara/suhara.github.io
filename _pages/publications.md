@@ -14,13 +14,13 @@ author_profile: true
 
 ## Preprint
 
+- [__ExplainIt: Explainable Review Summarization with Opinion Causality Graphs__](https://arxiv.org/abs/2006.00119)  
+Nofar Carmeli, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Yuliang Li, Jinfeng Li, Wang-Chiew Tan    
+[pdf](https://arxiv.org/abs/2006.00119){:class="btn btn-pdf"}
+
 - [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
 Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
 [pdf](https://arxiv.org/abs/2004.03020){:class="btn btn-pdf"}
-
-- [__Deep Entity Matching with Pre-Trained Language Models__](https://arxiv.org/abs/2004.00584)     
-Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
-[pdf](https://arxiv.org/abs/2004.00584){:class="btn btn-pdf"}
 
 - [__Understanding Human Judgments of Causality__](https://arxiv.org/abs/1912.08998)  
 Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland  
@@ -31,19 +31,26 @@ __Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland
 [pdf](https://arxiv.org/abs/1902.03488){:class="btn btn-pdf"}
 
 
+## 2021
+
+- [__Deep Entity Matching with Pre-Trained Language Models__](https://arxiv.org/abs/2004.00584)     
+Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
+VLDB 2021 (Scalable Data Science) (to appear)  
+[pdf](https://arxiv.org/abs/2004.00584){:class="btn btn-pdf"}
+
 
 ## 2020
 
 - [__Sato: Contextual Semantic Type Detection in Tables__](https://arxiv.org/abs/1911.06311)  
 Dan Zhang, __Yoshihiko Suhara__, Jinfeng Li, Madelon Hulsebos, Çağatay Demiralp, Wang-Chiew Tan  
-VLDB 2020 (To appear)  
+VLDB 2020  
 [pdf](https://arxiv.org/abs/1911.06311){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/sato){:class="btn btn-code"}
 [blog](https://megagon.ai/blog/semantic-type-detection-why-it-matters-current-approaches-and-how-to-improve-it/){:class="btn btn-blog"}
 
 - [__OpinionDigest: A Simple Framework for Opinion Summarization__](https://arxiv.org/abs/2005.01901)  
 __Yoshihiko Suhara__\*, Xiaolan Wang\*, Stefanos Angelidis, Wang-Chiew Tan  
-ACL 2020 (short) (To appear)  
+ACL 2020 (short)  
 [pdf](https://arxiv.org/abs/2005.01901){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/opiniondigest){:class="btn btn-code"}
 
