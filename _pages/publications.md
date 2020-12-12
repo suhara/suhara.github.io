@@ -33,6 +33,13 @@ __Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland
 
 ## 2021
 
+- [__Extractive Opinion Summarization in Quantized Transformer Spaces__](https://arxiv.org/abs/2012.04443)  
+Stefanos Angelidis, Reinald Kim Amplayo, __Yoshihiko Suhara__, Xiaolan Wang, and Mirella Lapata  
+TACL 2021 (to appear)  
+[pdf](https://arxiv.org/abs/2012.04443){:class="btn btn-pdf"}
+[code](https://github.com/stangelid/qt){:class="btn btn-code"}
+  
+
 - [__Deep Entity Matching with Pre-Trained Language Models__](https://arxiv.org/abs/2004.00584)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
 VLDB 2021 (Scalable Data Science) (to appear)  
@@ -48,11 +55,12 @@ VLDB 2020
 [code](https://github.com/megagonlabs/sato){:class="btn btn-code"}
 [blog](https://megagon.ai/blog/semantic-type-detection-why-it-matters-current-approaches-and-how-to-improve-it/){:class="btn btn-blog"}
 
-- [__OpinionDigest: A Simple Framework for Opinion Summarization__](https://arxiv.org/abs/2005.01901)  
+- [__OpinionDigest: A Simple Framework for Opinion Summarization__](https://www.aclweb.org/anthology/2020.acl-main.513/)  
 __Yoshihiko Suhara__\*, Xiaolan Wang\*, Stefanos Angelidis, Wang-Chiew Tan  
 ACL 2020 (short)  
-[pdf](https://arxiv.org/abs/2005.01901){:class="btn btn-pdf"}
+[pdf](https://www.aclweb.org/anthology/2020.acl-main.513/){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/opiniondigest){:class="btn btn-code"}
+  [video](https://slideslive.com/38929096/opiniondigest-a-simple-framework-for-opinion-summarization){:class="btn btn-video"}  
 
 - [__An Exploratory Visual Analytics Tool for Multivariate Dynamic Networks__](https://diglib.eg.org/bitstream/handle/10.2312/eurova20201081/019-023.pdf)  
 Hasan Alp Boz, Mohsen Bahrami, __Yoshihiko Suhara__, Burcin Bozkaya, Selim Balcisoy  
