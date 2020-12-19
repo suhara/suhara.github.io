@@ -12,14 +12,14 @@ Hi! I am a Senior Research Scientist at [Megagon Labs](https://megagon.ai).
 Previously, I was a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), 
 and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.html) (2008-2014). I received my B.E., M.E, and Ph.D. (Dr. Eng.) respectively from [Keio University](https://www.keio.ac.jp/en/), Japan.
 
-My recent research focus is at the intersection of Machine Learning, Natural Language Processing, and Data Management.
-My research interests also include computational approaches for the social sciences (known as Computational Social Science.)
+My recent research focus is at the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences (known as Computational Social Science.)
 
 I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 
 What's New?
 ======
+- 2020-12: Happy to know that I was [listed as an outstanding reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf) at [EMNLP 2020](https://2020.emnlp.org/)! 
 - 2020-12: Our paper ["Extractive Opinion Summarization in Quantized Transformer Spaces"](https://arxiv.org/abs/2012.04443) is to appear in TACL! Also check out the [SPACE dataset](https://github.com/stangelid/qt), a new large-scale evaluation benchmark for opinion summarization!
 - 2020-08: Our paper ["Deep Entity Matching with Pre-Trained Language Models"](https://arxiv.org/abs/2004.00584) has been accepted at VLDB 2021 Scalable Data Science Track!
 - 2020-05: Our paper ["Sato: Contextual Semantic Type Detection in Tables"](https://arxiv.org/abs/1911.06311) was accepted to PVLDB!
