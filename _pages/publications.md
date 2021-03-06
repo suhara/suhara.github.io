@@ -14,10 +14,6 @@ author_profile: true
 
 ## Preprint
 
-- [__ExplainIt: Explainable Review Summarization with Opinion Causality Graphs__](https://arxiv.org/abs/2006.00119)  
-Nofar Carmeli, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Yuliang Li, Jinfeng Li, Wang-Chiew Tan    
-[pdf](https://arxiv.org/abs/2006.00119){:class="btn btn-pdf"}
-
 - [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
 Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
 [pdf](https://arxiv.org/abs/2004.03020){:class="btn btn-pdf"}
@@ -33,6 +29,11 @@ __Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland
 
 ## 2021
 
+- __Constructing Explainable Opinion Graphs from Reviews__     
+Nofar Carmeli, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Yuliang Li, Jinfeng Li and Wang-Chiew Tan  
+WWW 2021 (to appear)    
+
+
 - [__Extractive Opinion Summarization in Quantized Transformer Spaces__](https://arxiv.org/abs/2012.04443)  
 Stefanos Angelidis, Reinald Kim Amplayo, __Yoshihiko Suhara__, Xiaolan Wang, and Mirella Lapata  
 TACL 2021 (to appear)  
@@ -44,6 +45,13 @@ TACL 2021 (to appear)
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
 VLDB 2021 (Scalable Data Science) (to appear)  
 [pdf](https://arxiv.org/abs/2004.00584){:class="btn btn-pdf"}
+
+
+- [__Deep Entity Matching with Pre-Trained Language Models__](https://dl.acm.org/doi/abs/10.1145/3431816)     
+Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, Jin Wang, Wataru Hirota, Wang-Chiew Tan  
+ACM JDIQ  
+[pdf](https://dl.acm.org/doi/abs/10.1145/3431816){:class="btn btn-pdf"}
+
 
 
 ## 2020
@@ -60,7 +68,8 @@ __Yoshihiko Suhara__\*, Xiaolan Wang\*, Stefanos Angelidis, Wang-Chiew Tan
 ACL 2020 (short)  
 [pdf](https://www.aclweb.org/anthology/2020.acl-main.513/){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/opiniondigest){:class="btn btn-code"}
-  [video](https://slideslive.com/38929096/opiniondigest-a-simple-framework-for-opinion-summarization){:class="btn btn-video"}  
+[video](https://slideslive.com/38929096/opiniondigest-a-simple-framework-for-opinion-summarization){:class="btn btn-video"}
+[blog](https://megagon.ai/blog/control-and-interpret-your-summaries-with-opiniondigest/){:class="btn btn-blog"}
 
 - [__An Exploratory Visual Analytics Tool for Multivariate Dynamic Networks__](https://diglib.eg.org/bitstream/handle/10.2312/eurova20201081/019-023.pdf)  
 Hasan Alp Boz, Mohsen Bahrami, __Yoshihiko Suhara__, Burcin Bozkaya, Selim Balcisoy  
@@ -79,13 +88,14 @@ Matthew J Salganik, Ian Lundberg, Alexander T Kindel, Caitlin E Ahearn, Khaled A
 PNAS  
 [pdf](https://www.pnas.org/content/early/2020/03/24/1915006117.short){:class="btn btn-pdf"}
 [MIT Tech Review](https://www.technologyreview.com/2020/04/02/998478/ai-machine-learning-social-outcome-prediction-study/){:class="btn btn-misc"}
-
+[blog](https://www.fragilefamilieschallenge.org/blog/){:class="btn btn-blog"}
+  
 - [__Emu: Enhancing Multilingual Sentence Embeddings with Semantic Specialization__](https://arxiv.org/abs/1909.06731)  
 Wataru Hirota, __Yoshihiko Suhara__, Behzad Golshan, Wang-Chiew Tan  
 AAAI 2020  
 [pdf](https://arxiv.org/abs/1909.06731){:class="btn btn-pdf"}
 [blog](https://megagon.ai/blog/emu-enhancing-multilingual-sentence-embeddings-with-semantic-similarity/){:class="btn btn-blog"}
-
+  
 - [__An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection__](https://www.nature.com/articles/s41598-019-56352-8)  
 Pedro AB Gomes, __Yoshihiko Suhara__, Patrícia Nunes-Silva, Luciano Costa, Helder Arruda, Giorgio Venturieri, Vera Lucia Imperatriz-Fonseca, Alex Pentland, Paulo de Souza, Gustavo Pessin  
 Scientific Reports  
