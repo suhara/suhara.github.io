@@ -31,6 +31,14 @@ What's New?
 - 2020-02: We presented "[Emu: Enhancing Multilingual Sentence Embeddings with Semantic Specialization](https://arxiv.org/abs/1909.06731)" at AAAI 2020! Check out our [blog post](https://megagon.ai/blog/emu-enhancing-multilingual-sentence-embeddings-with-semantic-similarity/).
 
 
+Academic Service
+======
+
+- **Program Commitee/Reviewer**
+  - **Conference**: ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, CoNLL, *SEM, LREC
+  - **Journal**: ACM IMWUT, ACM JDIQ, ACM Health, PLOS One
+
+
 FAQ
 ======
 - Q. Are you [the famous green dinosaur](https://en.wikipedia.org/wiki/Yoshi)?  

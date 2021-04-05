@@ -22,9 +22,6 @@ Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko 
 Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland  
 [pdf](https://arxiv.org/abs/1912.08998){:class="btn btn-pdf"}
 
-- [__Validating Gravity-Based Market Share Models Using Large-Scale Transactional Data__](https://arxiv.org/abs/1902.03488)  
-__Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland  
-[pdf](https://arxiv.org/abs/1902.03488){:class="btn btn-pdf"}
 
 
 ## 2021
@@ -41,16 +38,23 @@ TACL 2021 (to appear)
 [code](https://github.com/stangelid/qt){:class="btn btn-code"}
   
 
-- [__Deep Entity Matching with Pre-Trained Language Models__](https://arxiv.org/abs/2004.00584)     
+- [__Deep Entity Matching with Pre-Trained Language Models__](http://www.vldb.org/pvldb/vol14/p50-li.pdf)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
-VLDB 2021 (Scalable Data Science) (to appear)  
-[pdf](https://arxiv.org/abs/2004.00584){:class="btn btn-pdf"}
+VLDB 2021 (Scalable Data Science)
+[pdf](http://www.vldb.org/pvldb/vol14/p50-li.pdf){:class="btn btn-pdf"}
+[code](https://github.com/megagonlabs/ditto){:class="btn btn-code"}
 
 
-- [__Deep Entity Matching with Pre-Trained Language Models__](https://dl.acm.org/doi/abs/10.1145/3431816)     
+- [__Deep Entity Matching: Challenges and Opportunities__](https://dl.acm.org/doi/abs/10.1145/3431816)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, Jin Wang, Wataru Hirota, Wang-Chiew Tan  
 ACM JDIQ  
 [pdf](https://dl.acm.org/doi/abs/10.1145/3431816){:class="btn btn-pdf"}
+
+
+- [__Validating Gravity-Based Market Share Models Using Large-Scale Transactional Data__](https://www.liebertpub.com/doi/10.1089/big.2020.0161)    
+__Yoshihiko Suhara__, Mohsen Bahrami, Burçin Bozkaya, Alex `Sandy' Pentland  
+Big Data  
+[pdf](https://arxiv.org/abs/1902.03488){:class="btn btn-pdf"}
 
 
 
