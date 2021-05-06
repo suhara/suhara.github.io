@@ -36,7 +36,7 @@ Academic Service
 
 - **Program Commitee/Reviewer**
   - **Conference**: ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, CoNLL, *SEM, LREC
-  - **Journal**: ACM IMWUT, ACM JDIQ, ACM Health, PLOS One
+  - **Journal**: ACM Transactions (HEALTH, IMWUT, JDIQ), PLOS One
 
 
 FAQ

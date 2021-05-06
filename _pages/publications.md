@@ -14,6 +14,14 @@ author_profile: true
 
 ## Preprint
 
+- [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
+__Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
+[pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
+
+- [__Convex Aggregation for Opinion Summarization__](https://arxiv.org/abs/2104.01371)  
+Hayate Iso, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Wang-Chiew Tan  
+[pdf](https://arxiv.org/abs/2104.01371){:class="btn btn-pdf"}
+
 - [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
 Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
 [pdf](https://arxiv.org/abs/2004.03020){:class="btn btn-pdf"}
@@ -26,10 +34,17 @@ Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland
 
 ## 2021
 
-- __Constructing Explainable Opinion Graphs from Reviews__     
-Nofar Carmeli, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Yuliang Li, Jinfeng Li and Wang-Chiew Tan  
-WWW 2021 (to appear)    
+- [__Deep Entity Matching with Pre-Trained Language Models__](http://www.vldb.org/pvldb/vol14/p50-li.pdf)     
+Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
+VLDB 2021 (Scalable Data Science)
+[pdf](http://www.vldb.org/pvldb/vol14/p50-li.pdf){:class="btn btn-pdf"}
+[code](https://github.com/megagonlabs/ditto){:class="btn btn-code"}
 
+- [__Constructing Explainable Opinion Graphs from Reviews__](https://arxiv.org/abs/2006.00119)     
+Nofar Carmeli, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Yuliang Li, Jinfeng Li and Wang-Chiew Tan  
+WWW 2021  
+[pdf](https://arxiv.org/abs/2006.00119){:class="btn btn-pdf"}
+[code](https://github.com/megagonlabs/explainit){:class="btn btn-code"}
 
 - [__Extractive Opinion Summarization in Quantized Transformer Spaces__](https://arxiv.org/abs/2012.04443)  
 Stefanos Angelidis, Reinald Kim Amplayo, __Yoshihiko Suhara__, Xiaolan Wang, and Mirella Lapata  
@@ -37,14 +52,6 @@ TACL 2021 (to appear)
 [pdf](https://arxiv.org/abs/2012.04443){:class="btn btn-pdf"}
 [code](https://github.com/stangelid/qt){:class="btn btn-code"}
   
-
-- [__Deep Entity Matching with Pre-Trained Language Models__](http://www.vldb.org/pvldb/vol14/p50-li.pdf)     
-Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
-VLDB 2021 (Scalable Data Science)
-[pdf](http://www.vldb.org/pvldb/vol14/p50-li.pdf){:class="btn btn-pdf"}
-[code](https://github.com/megagonlabs/ditto){:class="btn btn-code"}
-
-
 - [__Deep Entity Matching: Challenges and Opportunities__](https://dl.acm.org/doi/abs/10.1145/3431816)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, Jin Wang, Wataru Hirota, Wang-Chiew Tan  
 ACM JDIQ  
