@@ -19,9 +19,10 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
-- 2021-01: Our paper "Constructing Explainable Opinion Graphs from Reviews" has been accepted at WWW 2021!
-- 2021-01: Our paper [Deep Entity Matching: Challenges and Opportunities](https://dl.acm.org/doi/abs/10.1145/3431816) was published in [ACM Journal of Data and Information Quality (JDIQ)](https://dl.acm.org/journal/jdiq). 
-- 2020-12: Happy to know that I was [listed as an outstanding reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf) at [EMNLP 2020](https://2020.emnlp.org/)! 
+- 2021-08: Happy to be selected as an Outstanding Reviewer at [ACL-IJCNLP 2021](https://2021.aclweb.org/)! 
+- 2021-01: Our paper ["Constructing Explainable Opinion Graphs from Reviews"](https://dl.acm.org/doi/10.1145/3442381.3450081) has been accepted at [WWW 2021](https://www2021.thewebconf.org/)!
+- 2021-01: Our paper ["Deep Entity Matching: Challenges and Opportunities"](https://dl.acm.org/doi/abs/10.1145/3431816) was published in [ACM Journal of Data and Information Quality (JDIQ)](https://dl.acm.org/journal/jdiq). 
+- 2020-12: Happy to know that I was [listed as an Outstanding Reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf) at [EMNLP 2020](https://2020.emnlp.org/)! 
 - 2020-12: Our paper ["Extractive Opinion Summarization in Quantized Transformer Spaces"](https://arxiv.org/abs/2012.04443) is to appear in TACL! Also check out the [SPACE dataset](https://github.com/stangelid/qt), a new large-scale evaluation benchmark for opinion summarization!
 - 2020-08: Our paper ["Deep Entity Matching with Pre-Trained Language Models"](https://arxiv.org/abs/2004.00584) has been accepted at VLDB 2021 Scalable Data Science Track!
 - 2020-05: Our paper ["Sato: Contextual Semantic Type Detection in Tables"](https://arxiv.org/abs/1911.06311) was accepted to PVLDB!
@@ -35,8 +36,8 @@ Academic Service
 ======
 
 - **Program Commitee/Reviewer**
-  - **Conference**: ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, CoNLL, *SEM, LREC
-  - **Journal**: ACM Transactions (HEALTH, IMWUT, JDIQ), PLOS One
+  - **Conference**: ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, ICLR, CoNLL, *SEM, LREC
+  - **Journal**: ACM Transactions (HEALTH, IMWUT, JDIQ), Computer Speech & Language, PLOS One
 
 
 FAQ

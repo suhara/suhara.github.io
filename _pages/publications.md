@@ -48,7 +48,7 @@ WWW 2021
 
 - [__Extractive Opinion Summarization in Quantized Transformer Spaces__](https://arxiv.org/abs/2012.04443)  
 Stefanos Angelidis, Reinald Kim Amplayo, __Yoshihiko Suhara__, Xiaolan Wang, and Mirella Lapata  
-TACL 2021 (to appear)  
+TACL 2021
 [pdf](https://arxiv.org/abs/2012.04443){:class="btn btn-pdf"}
 [code](https://github.com/stangelid/qt){:class="btn btn-code"}
   
