@@ -19,6 +19,8 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
+- 2021-09: I'm teaching a fall semester course "CIS 6930 Topics in Computing for Data Science", which covers a variety of Deep Learning techniques at [New College of Florida](https://www.ncf.edu/) as part of the [Graduate Program in Applied Data Science](https://www.ncf.edu/academics/graduate-program/).
+- 2021-09: Our paper ["Convex Aggregation for Opinion Summarization"](https://arxiv.org/abs/2104.01371) has been accepted to Findings of EMNLP 2021!
 - 2021-08: Happy to be selected as an Outstanding Reviewer at [ACL-IJCNLP 2021](https://2021.aclweb.org/)! 
 - 2021-01: Our paper ["Constructing Explainable Opinion Graphs from Reviews"](https://dl.acm.org/doi/10.1145/3442381.3450081) has been accepted at [WWW 2021](https://www2021.thewebconf.org/)!
 - 2021-01: Our paper ["Deep Entity Matching: Challenges and Opportunities"](https://dl.acm.org/doi/abs/10.1145/3431816) was published in [ACM Journal of Data and Information Quality (JDIQ)](https://dl.acm.org/journal/jdiq). 

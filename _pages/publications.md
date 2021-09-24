@@ -18,10 +18,6 @@ author_profile: true
 __Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
 [pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
 
-- [__Convex Aggregation for Opinion Summarization__](https://arxiv.org/abs/2104.01371)  
-Hayate Iso, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Wang-Chiew Tan  
-[pdf](https://arxiv.org/abs/2104.01371){:class="btn btn-pdf"}
-
 - [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
 Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
 [pdf](https://arxiv.org/abs/2004.03020){:class="btn btn-pdf"}
@@ -33,6 +29,12 @@ Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland
 
 
 ## 2021
+
+- [__Convex Aggregation for Opinion Summarization__](https://arxiv.org/abs/2104.01371)  
+Hayate Iso, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Wang-Chiew Tan  
+Findings of EMNLP 2021  
+[pdf](https://arxiv.org/abs/2104.01371){:class="btn btn-pdf"}
+[code](https://github.com/megagonlabs/coop){:class="btn btn-code"}
 
 - [__Deep Entity Matching with Pre-Trained Language Models__](http://www.vldb.org/pvldb/vol14/p50-li.pdf)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
