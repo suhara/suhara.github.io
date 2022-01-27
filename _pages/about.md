@@ -40,7 +40,7 @@ Academic Service
 - **Program Commitee/Reviewer**
   - **Conference**: ARR, ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, ICLR, CoNLL, *SEM, LREC
   - **Journal**: ACM Transactions (HEALTH, IMWUT, JDIQ), Computer Speech & Language, PLOS One
-- **Outstanding Reviewer**: EMNLP 2020/2021, ACL-IJCAI 2021
+- **Outstanding Reviewer**: ACL 2021, EMNLP 2020/2021
 
 FAQ
 ======
