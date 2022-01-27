@@ -14,10 +14,6 @@ author_profile: true
 
 ## Preprint
 
-- [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
-__Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
-[pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
-
 - [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
 Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
 [pdf](https://arxiv.org/abs/2004.03020){:class="btn btn-pdf"}
@@ -26,6 +22,13 @@ Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko 
 Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland  
 [pdf](https://arxiv.org/abs/1912.08998){:class="btn btn-pdf"}
 
+
+## 2022
+
+- [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
+__Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan 
+SIGMOD 2022
+[pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
 
 
 ## 2021

@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Senior Research Scientist at [Megagon Labs](https://megagon.ai). 
-Previously, I was a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), 
+Hi! I am a Senior Research Scientist at [Megagon Labs](https://megagon.ai). Previously, I was a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), 
 and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.html) (2008-2014). I received my B.E., M.E, and Ph.D. (Dr. Eng.) respectively from [Keio University](https://www.keio.ac.jp/en/), Japan.
 
 My recent research focus is at the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences (known as Computational Social Science.)
@@ -19,6 +18,7 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
+- 2021-12: Our paper "Annotating Columns with Pre-trained Language Models" has been accepted at SIGMOD 2022!
 - 2021-09: I'm teaching a fall semester course "CIS 6930 Topics in Computing for Data Science", which covers a variety of Deep Learning techniques at [New College of Florida](https://www.ncf.edu/) as part of the [Graduate Program in Applied Data Science](https://www.ncf.edu/academics/graduate-program/).
 - 2021-09: Our paper ["Convex Aggregation for Opinion Summarization"](https://arxiv.org/abs/2104.01371) has been accepted to Findings of EMNLP 2021!
 - 2021-08: Happy to be selected as an Outstanding Reviewer at [ACL-IJCNLP 2021](https://2021.aclweb.org/)! 
@@ -38,9 +38,9 @@ Academic Service
 ======
 
 - **Program Commitee/Reviewer**
-  - **Conference**: ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, ICLR, CoNLL, *SEM, LREC
+  - **Conference**: ARR, ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, ICLR, CoNLL, *SEM, LREC
   - **Journal**: ACM Transactions (HEALTH, IMWUT, JDIQ), Computer Speech & Language, PLOS One
-
+  - **Outstanding Reviewer**: EMNLP 2020/2021, ACL-IJCAI 2021
 
 FAQ
 ======
