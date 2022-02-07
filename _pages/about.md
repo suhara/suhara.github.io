@@ -19,6 +19,7 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 What's New?
 ======
 - 2021-12: Our paper ["Annotating Columns with Pre-trained Language Models"](https://arxiv.org/abs/2104.01785) has been accepted at SIGMOD 2022!
+- 2021-11: Happy to be selected as an Outstanding Reviewer at [EMNLP 2022](https://2021.emnlp.org/)
 - 2021-09: I'm teaching a fall semester course "CIS 6930 Topics in Computing for Data Science", which covers a variety of Deep Learning techniques at [New College of Florida](https://www.ncf.edu/) as part of the [Graduate Program in Applied Data Science](https://www.ncf.edu/academics/graduate-program/).
 - 2021-09: Our paper ["Convex Aggregation for Opinion Summarization"](https://arxiv.org/abs/2104.01371) has been accepted to Findings of EMNLP 2021!
 - 2021-08: Happy to be selected as an Outstanding Reviewer at [ACL-IJCNLP 2021](https://2021.aclweb.org/)! 

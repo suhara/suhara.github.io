@@ -12,17 +12,6 @@ author_profile: true
 {% include base_path %}
 
 
-## Preprint
-
-- [__Enhancing Review Comprehension with Domain-Specific Commonsense__](https://arxiv.org/abs/2004.03020)  
-Aaron Traylor, Chen Chen, Behzad Golshan, Xiaolan Wang, Yuliang Li, __Yoshihiko Suhara__, Jinfeng Li, Çagatay Demiralp, Wang-Chiew Tan  
-[pdf](https://arxiv.org/abs/2004.03020){:class="btn btn-pdf"}
-
-- [__Understanding Human Judgments of Causality__](https://arxiv.org/abs/1912.08998)  
-Masahiro Kazama, __Yoshihiko Suhara__, Andrey Bogomolov, Alex `Sandy' Pentland  
-[pdf](https://arxiv.org/abs/1912.08998){:class="btn btn-pdf"}
-
-
 ## 2022
 
 - [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
