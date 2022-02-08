@@ -27,6 +27,7 @@ Hayate Iso, Xiaolan Wang, __Yoshihiko Suhara__, Stefanos Angelidis, Wang-Chiew T
 Findings of EMNLP 2021  
 [pdf](https://arxiv.org/abs/2104.01371){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/coop){:class="btn btn-code"}
+[blog](https://megagon.ai/blog/generating-specific-review-summaries-with-coop/){:class="btn btn-blog"}
 
 - [__Deep Entity Matching with Pre-Trained Language Models__](http://www.vldb.org/pvldb/vol14/p50-li.pdf)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
