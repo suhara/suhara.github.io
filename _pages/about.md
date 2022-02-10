@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Senior Research Scientist at [Megagon Labs](https://megagon.ai). Previously, I was a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), 
+Hello! I am a Senior Research Scientist at [Megagon Labs](https://megagon.ai). Previously, I was a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), 
 and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.html) (2008-2014). I received my B.E., M.E, and Ph.D. (Dr. Eng.) respectively from [Keio University](https://www.keio.ac.jp/en/), Japan.
 
-My recent research focus is at the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences (known as Computational Social Science.)
+My research interest has been lying in the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences known as Computational Social Science.
+
+My current research scope can be categorized as follows:
+- Text Summarization/Generation [[EMNLP Findings 2021]](https://aclanthology.org/2021.findings-emnlp.328/) [[TACL 2021]](https://aclanthology.org/2021.tacl-1.17/) [[ACL 2020]](https://aclanthology.org/2020.acl-main.513/)
+- Table Understanding [[SIGMOD 2022]](https://arxiv.org/abs/2104.01785) [[VLDB 2021]](https://www.vldb.org/pvldb/vol14/p50-li.pdf) [[VLDB 2020]](http://www.vldb.org/pvldb/vol13/p1835-zhang.pdf)
+- Information/Knowledge Extraction [[WWW 2021]](https://arxiv.org/pdf/2006.00119.pdf) [[NAACL 2019]](https://aclanthology.org/N19-1239/)
 
 I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
