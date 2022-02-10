@@ -10,7 +10,8 @@ author_profile: true
 
 - Fall 2021, CIS 6930 Topics in Computing for Data Science, [New College of Florida](https://www.ncf.edu/)  
 [GitHub](https://github.com/suhara/cis6930-fall2021){:class="btn btn-code"}
-- Independent Study Period (January) 2020, "Machine Learning and NLP: Advances and Applications", [New College of Florida](https://www.ncf.edu/)
+- Independent Study Period (January) 2020, "Machine Learning and NLP: Advances and Applications", [New College of Florida](https://www.ncf.edu/)  
+[GitHub](https://github.com/suhara/mlnlp-isp2020){:class="btn btn-code"}
 - Fall 2017, Information System Special Lecture D, [University of Tsukuba](https://www.tsukuba.ac.jp/en/)  
 Guest lecture “How Data Scientists Work”
 - Fall 2016, MAS.S61 Social Physics, [Massachusetts Institute of Technology](https://www.mit.edu/)  
