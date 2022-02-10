@@ -15,8 +15,8 @@ author_profile: true
 ## 2022
 
 - [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
-__Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan 
-SIGMOD 2022
+__Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
+SIGMOD 2022  
 [pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
 
 
