@@ -14,6 +14,13 @@ author_profile: true
 
 ## 2022
 
+- [__Comparative Opinion Summarization via Collaborative Decoding__](https://arxiv.org/abs/2110.07520)  
+Hayate Iso, Xiaolan Wang, Stefanos Angelidis, __Yoshihiko Suhara__  
+Findings of ACL 2022  
+[pdf](https://arxiv.org/abs/2110.07520){:class="btn btn-pdf"}
+[code & data](https://github.com/megagonlabs/cocosum){:class="btn btn-code"}
+
+
 - [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
 __Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
 SIGMOD 2022  

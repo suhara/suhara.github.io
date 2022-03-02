@@ -14,7 +14,7 @@ and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.
 My research interest has been lying in the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences known as Computational Social Science.
 
 My current research scope can be categorized as follows:
-- Text Summarization/Generation [[EMNLP Findings 2021]](https://aclanthology.org/2021.findings-emnlp.328/) [[TACL 2021]](https://aclanthology.org/2021.tacl-1.17/) [[ACL 2020]](https://aclanthology.org/2020.acl-main.513/)
+- Text Summarization/Generation [[ACL Findings 2022]](https://arxiv.org/abs/2110.07520) [[EMNLP Findings 2021]](https://aclanthology.org/2021.findings-emnlp.328/) [[TACL 2021]](https://aclanthology.org/2021.tacl-1.17/) [[ACL 2020]](https://aclanthology.org/2020.acl-main.513/)
 - Table Understanding [[SIGMOD 2022]](https://arxiv.org/abs/2104.01785) [[VLDB 2021]](https://www.vldb.org/pvldb/vol14/p50-li.pdf) [[VLDB 2020]](http://www.vldb.org/pvldb/vol13/p1835-zhang.pdf)
 - Information/Knowledge Extraction [[WWW 2021]](https://arxiv.org/pdf/2006.00119.pdf) [[NAACL 2019]](https://aclanthology.org/N19-1239/)
 
@@ -23,6 +23,7 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
+- 2022-02: Our paper ["Comparative Opinion Summarization via Collaborative Decoding"](https://arxiv.org/abs/2110.07520) has been accepted to Findings of ACL 2022!
 - 2021-12: Our paper ["Annotating Columns with Pre-trained Language Models"](https://arxiv.org/abs/2104.01785) has been accepted at SIGMOD 2022!
 - 2021-11: Happy to be selected as an Outstanding Reviewer at [EMNLP 2022](https://2021.emnlp.org/)
 - 2021-09: I'm teaching a fall semester course "CIS 6930 Topics in Computing for Data Science", which covers a variety of Deep Learning techniques at [New College of Florida](https://www.ncf.edu/) as part of the [Graduate Program in Applied Data Science](https://www.ncf.edu/academics/graduate-program/).
