@@ -32,7 +32,7 @@ Chieh-Yang Huang, Jinfeng Li, Nikita Bhutani, Alexander Whedon, Estevam Hruschka
 
 - [__Extracting Salient Facts from Company Reviews with Scarce Labels__]()  
 Jinfeng Li, Nikita Bhutani, Alexander Whedon, Chieh-Yang Huang, Estevam Hruschka, __Yoshihiko Suhara__  
-[AIBSD Workshop](https://aibsdworkshop.github.io/2022/index.html) at AAAI 2022
+[AIBSD Workshop](https://aibsdworkshop.github.io/2022/index.html) at AAAI 2022  
 [pdf](){:class="btn btn-pdf"}
 
 
@@ -49,7 +49,7 @@ Findings of EMNLP 2021
 
 - [__Deep Entity Matching with Pre-Trained Language Models__](http://www.vldb.org/pvldb/vol14/p50-li.pdf)     
 Yuliang Li, Jinfeng Li, __Yoshihiko Suhara__, AnHai Doan, Wang-Chiew Tan  
-VLDB 2021 (Scalable Data Science)
+VLDB 2021  
 [pdf](http://www.vldb.org/pvldb/vol14/p50-li.pdf){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/ditto){:class="btn btn-code"}
 
@@ -61,7 +61,7 @@ WWW 2021
 
 - [__Extractive Opinion Summarization in Quantized Transformer Spaces__](https://arxiv.org/abs/2012.04443)  
 Stefanos Angelidis, Reinald Kim Amplayo, __Yoshihiko Suhara__, Xiaolan Wang, and Mirella Lapata  
-TACL 2021
+TACL 2021  
 [pdf](https://arxiv.org/abs/2012.04443){:class="btn btn-pdf"}
 [code](https://github.com/stangelid/qt){:class="btn btn-code"}
   
