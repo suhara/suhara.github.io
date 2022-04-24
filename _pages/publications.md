@@ -14,17 +14,28 @@ author_profile: true
 
 ## 2022
 
+- [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
+__Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
+SIGMOD 2022  
+[pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
+
 - [__Comparative Opinion Summarization via Collaborative Decoding__](https://arxiv.org/abs/2110.07520)  
 Hayate Iso, Xiaolan Wang, Stefanos Angelidis, __Yoshihiko Suhara__  
 Findings of ACL 2022  
 [pdf](https://arxiv.org/abs/2110.07520){:class="btn btn-pdf"}
 [code & data](https://github.com/megagonlabs/cocosum){:class="btn btn-code"}
 
+- [__Distilling Salient Reviews with Zero Labels__]()  
+Chieh-Yang Huang, Jinfeng Li, Nikita Bhutani, Alexander Whedon, Estevam Hruschka, __Yoshihiko Suhara__  
+[FEVER Workshop](https://fever.ai/workshop.html) at ACL 2022  
+[pdf](){:class="btn btn-pdf"}
 
-- [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
-__Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
-SIGMOD 2022  
-[pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
+- [__Extracting Salient Facts from Company Reviews with Scarce Labels__]()  
+Jinfeng Li, Nikita Bhutani, Alexander Whedon, Chieh-Yang Huang, Estevam Hruschka, __Yoshihiko Suhara__  
+[AIBSD Workshop](https://aibsdworkshop.github.io/2022/index.html) at AAAI 2022
+[pdf](){:class="btn btn-pdf"}
+
+
 
 
 ## 2021
