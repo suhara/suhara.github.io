@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Senior Research Scientist at [Megagon Labs](https://megagon.ai). Previously, I was a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), 
-and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.html) (2008-2014). I received my B.E., M.E, and Ph.D. (Dr. Eng.) respectively from [Keio University](https://www.keio.ac.jp/en/), Japan.
+Hello! I am an Applied Research Scientist at Grammarly. Previously, I was a Senior Research Scientist at [Megagon Labs](https://megagon.ai) (2017-2022), a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.html) (2008-2014). I received my B.E., M.E, and Ph.D. (Dr. Eng.) respectively from [Keio University](https://www.keio.ac.jp/en/), Japan.
 
 My research interest has been lying in the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences known as Computational Social Science.
 
@@ -23,6 +22,8 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
+- 2022-04: Started a new position at Grammarly!
+- 2022-04: Our tutorial "Beyond Opinion Mining: Summarizing Opinions of Customer Reviews" will be held at SIGIR 2022.
 - 2022-02: Our paper ["Comparative Opinion Summarization via Collaborative Decoding"](https://arxiv.org/abs/2110.07520) has been accepted to Findings of ACL 2022!
 - 2021-12: Our paper ["Annotating Columns with Pre-trained Language Models"](https://arxiv.org/abs/2104.01785) has been accepted at SIGMOD 2022!
 - 2021-11: Happy to be selected as an Outstanding Reviewer at [EMNLP 2022](https://2021.emnlp.org/)
@@ -46,7 +47,7 @@ Academic Service
 ======
 
 - **Program Commitee/Reviewer**
-  - **Conference**: ARR, ACL, NAACL, EMNLP, EACL, AAAI, IJCAI, ICLR, CoNLL, *SEM, LREC
+  - **Conference**: ARR, ACL, NAACL, EMNLP, EACL, CoNLL, *SEM, LREC, AAAI, IJCAI, NeurIPS, ICLR
   - **Journal**: ACM Transactions (HEALTH, IMWUT, JDIQ), Computer Speech & Language, PLOS One
 - **Outstanding Reviewer**: ACL 2021, EMNLP 2020/2021
 
