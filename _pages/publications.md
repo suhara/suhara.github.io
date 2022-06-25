@@ -19,7 +19,7 @@ __Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Che
 SIGMOD 2022  
 [pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/doduo){:class="btn btn-code"}
-[video](https://www.youtube.com/watch?v=GzMUGWUsj-g){:class="btn btn-video"}
+[video](https://youtu.be/GzMUGWUsj-g){:class="btn btn-video"}
 
 - [__Comparative Opinion Summarization via Collaborative Decoding__](https://arxiv.org/abs/2110.07520)  
 Hayate Iso, Xiaolan Wang, Stefanos Angelidis, __Yoshihiko Suhara__  
