@@ -18,24 +18,26 @@ author_profile: true
 __Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
 SIGMOD 2022  
 [pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
+[code](https://github.com/megagonlabs/doduo){:class="btn btn-code"}
+[video](https://www.youtube.com/watch?v=GzMUGWUsj-g){:class="btn btn-video"}
 
 - [__Comparative Opinion Summarization via Collaborative Decoding__](https://arxiv.org/abs/2110.07520)  
 Hayate Iso, Xiaolan Wang, Stefanos Angelidis, __Yoshihiko Suhara__  
 Findings of ACL 2022  
 [pdf](https://arxiv.org/abs/2110.07520){:class="btn btn-pdf"}
 [code & data](https://github.com/megagonlabs/cocosum){:class="btn btn-code"}
+[blog](https://megagon.ai/blog/pick-cocosum/){:class="btn btn-blog"}
 
-- [__Distilling Salient Reviews with Zero Labels__]()  
+- [__Distilling Salient Reviews with Zero Labels__](https://aclanthology.org/2022.fever-1.3/)  
 Chieh-Yang Huang, Jinfeng Li, Nikita Bhutani, Alexander Whedon, Estevam Hruschka, __Yoshihiko Suhara__  
 [FEVER Workshop](https://fever.ai/workshop.html) at ACL 2022  
-[pdf](){:class="btn btn-pdf"}
+[pdf](https://aclanthology.org/2022.fever-1.3/){:class="btn btn-pdf"}
 
-- [__Extracting Salient Facts from Company Reviews with Scarce Labels__]()  
+- [__Extracting Salient Facts from Company Reviews with Scarce Labels__](https://www.mdpi.com/2813-0324/3/1/9/pdf?version=1651231958)  
 Jinfeng Li, Nikita Bhutani, Alexander Whedon, Chieh-Yang Huang, Estevam Hruschka, __Yoshihiko Suhara__  
 [AIBSD Workshop](https://aibsdworkshop.github.io/2022/index.html) at AAAI 2022  
-[pdf](){:class="btn btn-pdf"}
-
-
+[pdf](https://www.mdpi.com/2813-0324/3/1/9/pdf?version=1651231958){:class="btn btn-pdf"}
+[blog](https://megagon.ai/blog/extracting-salient-facts-with-scarce-labels/){:class="btn btn-blog"}
 
 
 ## 2021
