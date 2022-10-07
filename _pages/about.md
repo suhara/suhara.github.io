@@ -22,6 +22,8 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
+- 2022-10: Our paper "Summarizing Community-based Question-Answer Pairs" has been accepted at EMNLP 2022.
+- 2022-07: Co-organized a tutorial on opinion summarization at SIGIR 2022. The slides and videos are available at [GitHub](https://github.com/abrazinskas/sigir2022-opinion-summarization-tutorial).
 - 2022-04: Started a new position at Grammarly!
 - 2022-04: Our tutorial "Beyond Opinion Mining: Summarizing Opinions of Customer Reviews" will be held at SIGIR 2022!
 - 2022-02: Our paper ["Comparative Opinion Summarization via Collaborative Decoding"](https://arxiv.org/abs/2110.07520) has been accepted to Findings of ACL 2022!

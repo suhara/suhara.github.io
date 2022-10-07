@@ -14,6 +14,18 @@ author_profile: true
 
 ## 2022
 
+- [__Summarizing Community-based Question-Answer Pairs__]()
+Ting-Yao Hsu, __Yoshi Suhara__, Xiaolan Wang  
+EMNLP 2022  
+[pdf](){:class="btn btn-pdf"}  
+[code & data](){:class="btn btn-code"}
+
+- [__Beyond Opinion Mining: Summarizing Opinions of Customer Reviews__](https://arxiv.org/abs/2206.01543)  
+Reinald Kim Amplayo, Arthur Bražinskas, __Yoshi Suhara__, Xiaolan Wang, Bing Liu  
+SIGIR 2022 Tutorial  
+[pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
+[slides&videos](https://github.com/abrazinskas/sigir2022-opinion-summarization-tutorial){:class="btn btn-slides"}
+
 - [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
 __Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
 SIGMOD 2022  
