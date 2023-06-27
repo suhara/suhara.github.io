@@ -31,14 +31,14 @@ VLDB Journal 2023
 Ting-Yao Hsu, __Yoshi Suhara__, Xiaolan Wang  
 EMNLP 2022  
 [pdf](https://aclanthology.org/2022.emnlp-main.250/){:class="btn btn-pdf"}
-[data](https://github.com/megagonlabs/qa-summarization){:class="btn btn-data"}
+[code & data](https://github.com/megagonlabs/qa-summarization){:class="btn btn-code"}
 
 - [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
 __Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  
 SIGMOD 2022  
 [pdf](https://arxiv.org/abs/2104.01785){:class="btn btn-pdf"}
 [code](https://github.com/megagonlabs/doduo){:class="btn btn-code"}
-[video](https://www.youtube.com/watch?v=GzMUGWUsj-g){:class="btn btn-video"}
+[video](https://youtu.be/GzMUGWUsj-g){:class="btn btn-video"}
 
 - [__Comparative Opinion Summarization via Collaborative Decoding__](https://arxiv.org/abs/2110.07520)  
 Hayate Iso, Xiaolan Wang, Stefanos Angelidis, __Yoshihiko Suhara__  
