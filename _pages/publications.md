@@ -12,7 +12,26 @@ author_profile: true
 {% include base_path %}
 
 
+## 2023
+
+- [Predicting merchant future performance using privacy-safe network-based features](https://www.nature.com/articles/s41598-023-36624-0)  
+Mohsen Bahrami, Hasan Alp Boz, __Yoshihiko Suhara__, Selim Balcisoy, Burcin Bozkaya, Alex Pentland  
+Scientific Reports  
+[pdf](https://www.nature.com/articles/s41598-023-36624-0){:class="btn btn-pdf"}
+
+- [__Effective entity matching with transformers__](https://link.springer.com/article/10.1007/s00778-023-00779-z)  
+Yuliang Li, Jinfeng Li, __Yoshi Suhara__, AnHai Doan, Wang-Chiew Tan  
+VLDB Journal 2023  
+[pdf](https://link.springer.com/article/10.1007/s00778-023-00779-z){:class="btn btn-pdf"}
+
+
 ## 2022
+
+- [__Summarizing Community-based Question-Answer Pairs__](https://aclanthology.org/2022.emnlp-main.250/)  
+Ting-Yao Hsu, __Yoshi Suhara__, Xiaolan Wang  
+EMNLP 2022  
+[pdf](https://aclanthology.org/2022.emnlp-main.250/){:class="btn btn-pdf"}
+[data](https://github.com/megagonlabs/qa-summarization){:class="btn btn-data"}
 
 - [__Annotating Columns with Pre-trained Language Models__](https://arxiv.org/abs/2104.01785)  
 __Yoshihiko Suhara__, Jinfeng Li, Yuliang Li, Dan Zhang, Çağatay Demiralp, Chen Chen, Wang-Chiew Tan  

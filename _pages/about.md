@@ -22,8 +22,8 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 
 What's New?
 ======
-- 2022-04: Started a new position at Grammarly!
-- 2022-04: Our tutorial "Beyond Opinion Mining: Summarizing Opinions of Customer Reviews" will be held at SIGIR 2022!
+- 2023-01: Our paper ["Effective entity matching with transformers"](https://link.springer.com/article/10.1007/s00778-023-00779-z) has been published at VLDB Journal!
+- 2022-04: Our tutorial ["Beyond Opinion Mining: Summarizing Opinions of Customer Reviews"](https://dl.acm.org/doi/10.1145/3477495.3532676) will be held at SIGIR 2022!
 - 2022-02: Our paper ["Comparative Opinion Summarization via Collaborative Decoding"](https://arxiv.org/abs/2110.07520) has been accepted to Findings of ACL 2022!
 - 2021-12: Our paper ["Annotating Columns with Pre-trained Language Models"](https://arxiv.org/abs/2104.01785) has been accepted at SIGMOD 2022!
 - 2021-11: Happy to be selected as an Outstanding Reviewer at [EMNLP 2022](https://2021.emnlp.org/)
