@@ -14,7 +14,7 @@ author_profile: true
 
 ## 2023
 
-- [Predicting merchant future performance using privacy-safe network-based features](https://www.nature.com/articles/s41598-023-36624-0)  
+- [__Predicting merchant future performance using privacy-safe network-based features__](https://www.nature.com/articles/s41598-023-36624-0)  
 Mohsen Bahrami, Hasan Alp Boz, __Yoshihiko Suhara__, Selim Balcisoy, Burcin Bozkaya, Alex Pentland  
 Scientific Reports  
 [pdf](https://www.nature.com/articles/s41598-023-36624-0){:class="btn btn-pdf"}

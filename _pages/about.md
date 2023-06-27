@@ -13,8 +13,8 @@ Hello! I am an Applied Research Scientist at [Grammarly](https://www.grammarly.c
 My research interest has been lying in the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences known as Computational Social Science.
 
 My current research scope can be categorized as follows:
-- Text Summarization/Generation [[ACL Findings 2022]](https://arxiv.org/abs/2110.07520) [[EMNLP Findings 2021]](https://aclanthology.org/2021.findings-emnlp.328/) [[TACL 2021]](https://aclanthology.org/2021.tacl-1.17/) [[ACL 2020]](https://aclanthology.org/2020.acl-main.513/)
-- Table Understanding [[SIGMOD 2022]](https://arxiv.org/abs/2104.01785) [[VLDB 2021]](https://www.vldb.org/pvldb/vol14/p50-li.pdf) [[VLDB 2020]](http://www.vldb.org/pvldb/vol13/p1835-zhang.pdf)
+- Text Summarization/Generation [[EMNLP 2023]](https://aclanthology.org/2022.emnlp-main.250/) [[ACL Findings 2022]](https://arxiv.org/abs/2110.07520) [[EMNLP Findings 2021]](https://aclanthology.org/2021.findings-emnlp.328/) [[TACL 2021]](https://aclanthology.org/2021.tacl-1.17/) [[ACL 2020]](https://aclanthology.org/2020.acl-main.513/)
+- Table Understanding [[VLDBJ 2023]](https://link.springer.com/article/10.1007/s00778-023-00779-z) [[SIGMOD 2022]](https://arxiv.org/abs/2104.01785) [[VLDB 2021]](https://www.vldb.org/pvldb/vol14/p50-li.pdf) [[VLDB 2020]](http://www.vldb.org/pvldb/vol13/p1835-zhang.pdf)
 - Information/Knowledge Extraction [[WWW 2021]](https://arxiv.org/pdf/2006.00119.pdf) [[NAACL 2019]](https://aclanthology.org/N19-1239/)
 
 I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
@@ -23,6 +23,7 @@ I'm a [ramen](https://en.wikipedia.org/wiki/Ramen) enthusiast.
 What's New?
 ======
 - 2023-01: Our paper ["Effective entity matching with transformers"](https://link.springer.com/article/10.1007/s00778-023-00779-z) has been published at VLDB Journal!
+- 2022-10: Our paper ["Summarizing Community-based Question-Answer Pairs"](https://aclanthology.org/2022.emnlp-main.250/) has been accepted at EMNLP 2022!
 - 2022-07: Co-organized a tutorial on opinion summarization at SIGIR 2022. The slides and videos are available at [GitHub](https://github.com/abrazinskas/sigir2022-opinion-summarization-tutorial).
 - 2022-04: Our tutorial ["Beyond Opinion Mining: Summarizing Opinions of Customer Reviews"](https://dl.acm.org/doi/10.1145/3477495.3532676) will be held at SIGIR 2022!
 - 2022-02: Our paper ["Comparative Opinion Summarization via Collaborative Decoding"](https://arxiv.org/abs/2110.07520) has been accepted to Findings of ACL 2022!
