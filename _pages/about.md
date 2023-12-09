@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Applied Research Scientist at [Grammarly](https://www.grammarly.com/about). Previously, I was a Senior Research Scientist at [Megagon Labs](https://megagon.ai) (2017-2022), a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.html) (2008-2014). I received my B.E., M.E, and Ph.D. (Dr. Eng.) respectively from [Keio University](https://www.keio.ac.jp/en/), Japan.
+Hello! I am a Senior Deep Learning Scientist at [NVIDIA](https://www.nvidia.com/). Previously, I was
+an Applied Research Scientist at [Grammarly](https://www.grammarly.com/about) (2022-2023), a Senior Research Scientist at [Megagon Labs](https://megagon.ai) (2017-2022), a Visiting Scientist at [the Human Dynamics Group](https://www.media.mit.edu/groups/human-dynamics/overview/), [MIT Media Lab](https://www.media.mit.edu/) (2014-2016), and a Research Scientist at [NTT Laboratories](https://www.ntt.co.jp/RD/e/index.html) (2008-2014). I received my B.E., M.E, and Ph.D. (Dr. Eng.) respectively from [Keio University](https://www.keio.ac.jp/en/), Japan.
 
-My research interest has been lying in the intersection of Machine Learning, Natural Language Processing, and Data Management. I also work on computational approaches for the social sciences known as Computational Social Science.
+My research interest has been lying in the intersection of Machine Learning, Natural Language Processing, and Data Management, with a recent focus of Large Language Models. I also work on computational approaches for the social sciences known as Computational Social Science.
 
 My current research scope can be categorized as follows:
 - Text Summarization/Generation [[EMNLP 2023]](https://aclanthology.org/2022.emnlp-main.250/) [[ACL Findings 2022]](https://arxiv.org/abs/2110.07520) [[EMNLP Findings 2021]](https://aclanthology.org/2021.findings-emnlp.328/) [[TACL 2021]](https://aclanthology.org/2021.tacl-1.17/) [[ACL 2020]](https://aclanthology.org/2020.acl-main.513/)
@@ -49,7 +50,7 @@ Academic Service
 ======
 
 - **Program Commitee/Reviewer**
-  - **Conference**: ARR, ACL, NAACL, EMNLP, EACL, CoNLL, *SEM, LREC, AAAI, IJCAI, NeurIPS, ICLR
+  - **Conference**: ARR, ACL, NAACL, EMNLP, EACL, CoNLL, *SEM, LREC, AAAI, IJCAI, NeurIPS, ICML, ICLR
   - **Journal**: ACM Transactions (HEALTH, IMWUT, JDIQ), Computer Speech & Language, PLOS One
 - **Outstanding Reviewer**: ACL 2021, EMNLP 2020/2021
 

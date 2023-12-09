@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yoshi Suhara"
 title_separator          : "-"
 name                     : &name "Yoshi Suhara"
-description              : &description "Applied Research Scientist at Grammarly"
+description              : &description "Senior Deep Learning Scientist at NVIDIA"
 url                      : https://suhara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suhara/suhara.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Yoshi Suhara"
   avatar           : "profile.png"
-  bio              : "Applied Research Scientist at Grammarly"
-  location         : "San Francisco, CA"
+  bio              : "Senior Deep Learning Scientist at NVIDIA"
+  location         : "Santa Clara, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=tjWt_1MAAAAJ&hl=en"
